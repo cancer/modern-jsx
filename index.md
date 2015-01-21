@@ -9,7 +9,7 @@
 
 株式会社ピクセルグリッド(2015/1〜)  
 
-AngularJS / Backbone / React.js あたりを触ったり  
+AngularJS / Backbone / React あたりを触ったり  
 CSSの設計したりなど
 
 ---
