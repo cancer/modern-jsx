@@ -1,4 +1,4 @@
-## ExtendScriptをモダンな感じで開発してみた
+## JSXをモダンな感じで開発してみた
 
 ---
 
@@ -14,14 +14,29 @@ CSSの設計したりなど
 
 ---
 
-## ExtendScript
+## JSX
 
 ---
 
-### What is ExtendScript
+![](src/jsx1.png)  
+...ではなく
+
+---
+
+![](src/jsx2.png)  
+...でもなく
+
+---
+
+## Adobe JSX
+
+---
+
+### What is Adobe JSX
 
 http://en.wikipedia.org/wiki/ExtendScript
 
+- 正式名称は`ExtendScript`<span class="font-size: 10px;">(たぶん)</span>
 - レイヤー編集やファイル作成などの操作ができるPhotoshop用のスクリプト(JS)
 - Photoshop CSの頃からある
 - Photoshopの内部にあるJSエンジンで実行
